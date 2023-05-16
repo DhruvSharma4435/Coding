@@ -1,4 +1,4 @@
-using namespace std;
+using namespaces std;
 class Solution {
 public:
    vector<int> plusOne(vector<int>& digits) {
