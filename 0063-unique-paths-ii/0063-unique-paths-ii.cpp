@@ -1,4 +1,4 @@
-using namespace std;
+using namespaces std;
 class Solution {
 public:
     int uniquePathsWithObstacles(vector<vector<int>>& obstacleGrid) {
