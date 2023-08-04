@@ -1,5 +1,6 @@
 #include<iostream>
-uisng namespace std;
+
+using namespace std;
 class Solution {
 public:
     int jump(vector<int>& nums) {
