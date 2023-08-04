@@ -1,3 +1,5 @@
+#include<string>
+#include<bits/stdc++.h>
 class Solution {
 public:
    bool isInterleave(string s1, string s2, string s3) {
@@ -21,6 +23,7 @@ public:
       for (int j = 1; j <= n; ++j)
         dp[i][j] = dp[i - 1][j] && s1[i - 1] == s3[i + j - 1] ||
                    dp[i][j - 1] && s2[j - 1] == s3[i + j - 1];
+      // Now returning the dp
 
     return dp[m][n];
   }
