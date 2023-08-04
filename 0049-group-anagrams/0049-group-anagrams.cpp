@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std;
+using namespaces std;
 class Solution {
 public:
    vector<vector<string>> groupAnagrams(vector<string>& strs) {
