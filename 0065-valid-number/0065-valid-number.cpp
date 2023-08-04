@@ -1,6 +1,6 @@
 #include<iostream>
 #include<vector>
-using namespace std;
+using namespaces std;
 class Solution {
 public:
    bool isNumber(string s) {
