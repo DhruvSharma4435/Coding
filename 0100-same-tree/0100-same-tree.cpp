@@ -9,7 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-// I strongly suggest to try befor you copy it!!
+// I strongly suggest to try befor you copy it!
 class Solution {
 public:
      bool isSameTree(TreeNode* p, TreeNode* q) {
