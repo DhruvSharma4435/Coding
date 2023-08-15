@@ -1,5 +1,5 @@
 /**
- * Definition for a binary tree node.
+ * Definition for a binary tree node that you might need to get a better understanding of the TreeNode.
  * struct TreeNode {
  *     int val;
  *     TreeNode *left;
