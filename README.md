@@ -10,5 +10,10 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 # Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/DhruvSharma4435/Coding/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhruvSharma4435/Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DhruvSharma4435/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
+# Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/DhruvSharma4435/Coding/tree/master/0069-sqrtx) |
