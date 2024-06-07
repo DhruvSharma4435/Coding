@@ -33,3 +33,11 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DhruvSharma4435/Coding/tree/master/0410-split-array-largest-sum) |
+# String
+|  |
+| ------- |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DhruvSharma4435/Coding/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+# Simulation
+|  |
+| ------- |
+| [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DhruvSharma4435/Coding/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
