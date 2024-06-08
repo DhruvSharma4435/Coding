@@ -5,6 +5,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 # Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/DhruvSharma4435/Coding/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhruvSharma4435/Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/DhruvSharma4435/Coding/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DhruvSharma4435/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -41,3 +42,11 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DhruvSharma4435/Coding/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
+# Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/DhruvSharma4435/Coding/tree/master/0088-merge-sorted-array) |
+# Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/DhruvSharma4435/Coding/tree/master/0088-merge-sorted-array) |
