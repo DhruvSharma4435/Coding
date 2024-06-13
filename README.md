@@ -43,6 +43,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | ------- |
 | [0125-valid-palindrome](https://github.com/DhruvSharma4435/Coding/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/DhruvSharma4435/Coding/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/DhruvSharma4435/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/DhruvSharma4435/Coding/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/DhruvSharma4435/Coding/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DhruvSharma4435/Coding/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
@@ -66,8 +67,10 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 # Hash Table
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/DhruvSharma4435/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/DhruvSharma4435/Coding/tree/master/0567-permutation-in-string) |
 # Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/DhruvSharma4435/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/DhruvSharma4435/Coding/tree/master/0567-permutation-in-string) |
