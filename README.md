@@ -5,6 +5,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 # Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DhruvSharma4435/Coding/tree/master/0054-spiral-matrix) |
 | [0088-merge-sorted-array](https://github.com/DhruvSharma4435/Coding/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhruvSharma4435/Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/DhruvSharma4435/Coding/tree/master/0189-rotate-array) |
@@ -52,6 +53,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 # Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/DhruvSharma4435/Coding/tree/master/0054-spiral-matrix) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DhruvSharma4435/Coding/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 # Two Pointers
 |  |
@@ -77,3 +79,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DhruvSharma4435/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/DhruvSharma4435/Coding/tree/master/0567-permutation-in-string) |
+# Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/DhruvSharma4435/Coding/tree/master/0054-spiral-matrix) |
