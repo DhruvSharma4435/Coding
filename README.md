@@ -11,6 +11,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0088-merge-sorted-array](https://github.com/DhruvSharma4435/Coding/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhruvSharma4435/Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/DhruvSharma4435/Coding/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DhruvSharma4435/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/DhruvSharma4435/Coding/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/DhruvSharma4435/Coding/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DhruvSharma4435/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -23,6 +24,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0069-sqrtx](https://github.com/DhruvSharma4435/Coding/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/DhruvSharma4435/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhruvSharma4435/Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DhruvSharma4435/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/DhruvSharma4435/Coding/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DhruvSharma4435/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DhruvSharma4435/Coding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -89,3 +91,8 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0054-spiral-matrix](https://github.com/DhruvSharma4435/Coding/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/DhruvSharma4435/Coding/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/DhruvSharma4435/Coding/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/DhruvSharma4435/Coding/tree/master/0240-search-a-2d-matrix-ii) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/DhruvSharma4435/Coding/tree/master/0240-search-a-2d-matrix-ii) |
