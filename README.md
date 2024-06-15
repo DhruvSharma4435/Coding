@@ -6,6 +6,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DhruvSharma4435/Coding/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DhruvSharma4435/Coding/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/DhruvSharma4435/Coding/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhruvSharma4435/Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/DhruvSharma4435/Coding/tree/master/0189-rotate-array) |
@@ -54,6 +55,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DhruvSharma4435/Coding/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DhruvSharma4435/Coding/tree/master/0059-spiral-matrix-ii) |
 | [3426-minimum-number-of-chairs-in-a-waiting-room](https://github.com/DhruvSharma4435/Coding/tree/master/3426-minimum-number-of-chairs-in-a-waiting-room) |
 # Two Pointers
 |  |
@@ -83,3 +85,4 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/DhruvSharma4435/Coding/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/DhruvSharma4435/Coding/tree/master/0059-spiral-matrix-ii) |
