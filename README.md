@@ -11,6 +11,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0088-merge-sorted-array](https://github.com/DhruvSharma4435/Coding/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DhruvSharma4435/Coding/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/DhruvSharma4435/Coding/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/DhruvSharma4435/Coding/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvSharma4435/Coding/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/DhruvSharma4435/Coding/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/DhruvSharma4435/Coding/tree/master/0410-split-array-largest-sum) |
@@ -33,6 +34,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | ------- |
 | [0069-sqrtx](https://github.com/DhruvSharma4435/Coding/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/DhruvSharma4435/Coding/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/DhruvSharma4435/Coding/tree/master/0204-count-primes) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -96,3 +98,11 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvSharma4435/Coding/tree/master/0240-search-a-2d-matrix-ii) |
+# Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DhruvSharma4435/Coding/tree/master/0204-count-primes) |
+# Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/DhruvSharma4435/Coding/tree/master/0204-count-primes) |
