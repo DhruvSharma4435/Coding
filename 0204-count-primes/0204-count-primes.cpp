@@ -4,7 +4,7 @@ public:
     
     int countPrimes(int n) {
         
-        cin.tie(0);
+        
         int count = 0; 
         if(n<= 2)
           return 0;
