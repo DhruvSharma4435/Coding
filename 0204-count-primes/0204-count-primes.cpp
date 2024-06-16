@@ -4,6 +4,7 @@ public:
     
     int countPrimes(int n) {
         ios :: sync_with_stdio(0);
+        cin.tie(0);
         int count = 0; 
         if(n<= 2)
           return 0;
