@@ -1,7 +1,7 @@
 class Solution {
 public:
     int fib(int n) {
-
+        ios::sync_with_stdio(0);
         if(n == 0)
            return 0;
         if(n == 1)
