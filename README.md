@@ -35,10 +35,12 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0069-sqrtx](https://github.com/DhruvSharma4435/Coding/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/DhruvSharma4435/Coding/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/DhruvSharma4435/Coding/tree/master/0204-count-primes) |
+| [1013-fibonacci-number](https://github.com/DhruvSharma4435/Coding/tree/master/1013-fibonacci-number) |
 # Dynamic Programming
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/DhruvSharma4435/Coding/tree/master/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/DhruvSharma4435/Coding/tree/master/1013-fibonacci-number) |
 # Greedy
 |  |
 | ------- |
@@ -106,3 +108,11 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DhruvSharma4435/Coding/tree/master/0204-count-primes) |
+# Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/DhruvSharma4435/Coding/tree/master/1013-fibonacci-number) |
+# Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/DhruvSharma4435/Coding/tree/master/1013-fibonacci-number) |
