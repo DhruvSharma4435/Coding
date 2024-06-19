@@ -1,6 +1,7 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
+        ios::sync_with_stdio(0);
         int xor1 = 0, xor2 =0;
         for(auto i : nums)
            xor1 = xor1 ^ i;
