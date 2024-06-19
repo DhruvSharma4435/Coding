@@ -23,6 +23,7 @@ public:
         return false;
     }
     int minDays(vector<int>& bloomDay, int m, int k) {
+        ios::sync_with_stdio(0);
         if((long)m*k > bloomDay.size())
            return -1;
         //first we create the sample space
