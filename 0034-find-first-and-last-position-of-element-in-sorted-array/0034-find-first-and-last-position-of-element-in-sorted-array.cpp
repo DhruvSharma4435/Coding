@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
+        ios::sync_with_stdio(0);
         //pahele binary search indexes ke upar laga ke minIndex nikaal le
         int s = 0, e = nums.size() - 1, minIndex = INT_MAX, maxIndex = -1;
         int mid = s + (e -s)/2;
