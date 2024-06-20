@@ -17,6 +17,7 @@ public:
         return count <= n;
     }
     int minimizedMaximum(int n, vector<int>& quantities) {
+        ios::sync_with_stdio(0);
         //sabse pahel sample sapce bana le, aur phir use BS se conquer kr le
         long long sum = 0;
         for(auto i : quantities)
