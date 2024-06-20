@@ -21,6 +21,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DhruvSharma4435/Coding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1241-decompress-run-length-encoded-list](https://github.com/DhruvSharma4435/Coding/tree/master/1241-decompress-run-length-encoded-list) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DhruvSharma4435/Coding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/DhruvSharma4435/Coding/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DhruvSharma4435/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 # Binary Search
 |  |
@@ -35,6 +36,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0882-peak-index-in-a-mountain-array](https://github.com/DhruvSharma4435/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DhruvSharma4435/Coding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DhruvSharma4435/Coding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/DhruvSharma4435/Coding/tree/master/1675-magnetic-force-between-two-balls) |
 # Math
 |  |
 | ------- |
@@ -89,6 +91,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DhruvSharma4435/Coding/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/DhruvSharma4435/Coding/tree/master/0268-missing-number) |
+| [1675-magnetic-force-between-two-balls](https://github.com/DhruvSharma4435/Coding/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
 |  |
 | ------- |
