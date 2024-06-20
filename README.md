@@ -23,6 +23,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DhruvSharma4435/Coding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/DhruvSharma4435/Coding/tree/master/1675-magnetic-force-between-two-balls) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/DhruvSharma4435/Coding/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DhruvSharma4435/Coding/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 # Binary Search
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DhruvSharma4435/Coding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DhruvSharma4435/Coding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/DhruvSharma4435/Coding/tree/master/1675-magnetic-force-between-two-balls) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DhruvSharma4435/Coding/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 # Math
 |  |
 | ------- |
