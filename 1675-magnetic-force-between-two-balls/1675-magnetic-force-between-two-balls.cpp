@@ -18,6 +18,7 @@ public:
         return false;
     }
     int maxDistance(vector<int>& position, int m) {
+        ios::sync_with_stdio(0);
         sort(position.begin(), position.end());
        int s = 1; // Minimum possible distance
        int e = position.back() - position.front(); // Maximum possible distance
