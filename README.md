@@ -42,6 +42,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 # Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/DhruvSharma4435/Coding/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/DhruvSharma4435/Coding/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/DhruvSharma4435/Coding/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/DhruvSharma4435/Coding/tree/master/0204-count-primes) |
@@ -127,6 +128,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 # Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/DhruvSharma4435/Coding/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/DhruvSharma4435/Coding/tree/master/1013-fibonacci-number) |
 # Memoization
 |  |
