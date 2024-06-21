@@ -19,6 +19,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0410-split-array-largest-sum](https://github.com/DhruvSharma4435/Coding/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DhruvSharma4435/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DhruvSharma4435/Coding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1138-grumpy-bookstore-owner](https://github.com/DhruvSharma4435/Coding/tree/master/1138-grumpy-bookstore-owner) |
 | [1241-decompress-run-length-encoded-list](https://github.com/DhruvSharma4435/Coding/tree/master/1241-decompress-run-length-encoded-list) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/DhruvSharma4435/Coding/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/DhruvSharma4435/Coding/tree/master/1675-magnetic-force-between-two-balls) |
@@ -106,6 +107,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/DhruvSharma4435/Coding/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/DhruvSharma4435/Coding/tree/master/0567-permutation-in-string) |
+| [1138-grumpy-bookstore-owner](https://github.com/DhruvSharma4435/Coding/tree/master/1138-grumpy-bookstore-owner) |
 # Matrix
 |  |
 | ------- |
