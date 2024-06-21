@@ -42,6 +42,7 @@ public:
 
     int maxSatisfied(vector<int>& customers, vector<int>& grumpy, int minutes) {
         ios::sync_with_stdio(0);
+        cin.tie(0);
         int sum = 0;
         for(auto i : customers){
             sum += i;
