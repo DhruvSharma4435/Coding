@@ -51,8 +51,7 @@ public:
     }
 
     vector<int> sortArray(vector<int>& nums) {
-        ios::sync_with_stdio(0);
-        cin.tie(0);
+        
         mergeSort(nums, 0, nums.size() - 1);
         return nums;
     }
