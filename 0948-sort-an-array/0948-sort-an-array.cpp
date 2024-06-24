@@ -2,21 +2,14 @@ class Solution {
 public:
     void merge(vector<int>& nums, int s, int e)
     {
-        int mid = s + (e - s)/2;
-        int len1 = mid - s + 1;
-        int len2 = e - mid;
-        int k = s;
+        int mid = s + (e - s)/2, len1 = mid - s + 1, len2 = e - mid, k = s;
         vector<int> arr1(len1);
         vector<int> arr2(len2);
         for(int i = 0; i< len1; i++)
-        {
             arr1[i] = nums[k + i];
-        }
         k = mid + 1;
         for(int i = 0; i< len2; i++)
-        {
             arr2[i] = nums[k + i];
-        }
         k = s;
         int i = 0, j = 0;
         while(i < len1 &&  j < len2)
@@ -43,7 +36,6 @@ public:
         
         while(j < len2)
             nums[k++] = arr2[j++];
-
         return;
     }
 
@@ -53,11 +45,8 @@ public:
         if( s >= e)
           return;
         int mid = s + (e - s)/2;
-        //cal merge sort on the left part
         mergeSort(nums, s, mid);
-        //call merge sort on the right part
         mergeSort(nums, mid + 1, e);
-        //merge these left and right, "sorted" arrays;
         merge(nums, s, e);
     }
 
