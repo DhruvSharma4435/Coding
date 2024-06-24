@@ -18,6 +18,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0283-move-zeroes](https://github.com/DhruvSharma4435/Coding/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/DhruvSharma4435/Coding/tree/master/0410-split-array-largest-sum) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/DhruvSharma4435/Coding/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0948-sort-an-array](https://github.com/DhruvSharma4435/Coding/tree/master/0948-sort-an-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/DhruvSharma4435/Coding/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1138-grumpy-bookstore-owner](https://github.com/DhruvSharma4435/Coding/tree/master/1138-grumpy-bookstore-owner) |
 | [1241-decompress-run-length-encoded-list](https://github.com/DhruvSharma4435/Coding/tree/master/1241-decompress-run-length-encoded-list) |
@@ -95,6 +96,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | ------- |
 | [0088-merge-sorted-array](https://github.com/DhruvSharma4435/Coding/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/DhruvSharma4435/Coding/tree/master/0268-missing-number) |
+| [0948-sort-an-array](https://github.com/DhruvSharma4435/Coding/tree/master/0948-sort-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/DhruvSharma4435/Coding/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
 |  |
@@ -119,6 +121,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/DhruvSharma4435/Coding/tree/master/0240-search-a-2d-matrix-ii) |
+| [0948-sort-an-array](https://github.com/DhruvSharma4435/Coding/tree/master/0948-sort-an-array) |
 # Enumeration
 |  |
 | ------- |
@@ -141,3 +144,23 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/DhruvSharma4435/Coding/tree/master/0268-missing-number) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/DhruvSharma4435/Coding/tree/master/0948-sort-an-array) |
+# Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/DhruvSharma4435/Coding/tree/master/0948-sort-an-array) |
+# Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/DhruvSharma4435/Coding/tree/master/0948-sort-an-array) |
+# Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/DhruvSharma4435/Coding/tree/master/0948-sort-an-array) |
+# Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/DhruvSharma4435/Coding/tree/master/0948-sort-an-array) |
