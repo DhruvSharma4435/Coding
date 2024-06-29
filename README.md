@@ -175,9 +175,11 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 ## Two Pointers
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/DhruvSharma4435/Coding/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/DhruvSharma4435/Coding/tree/master/2128-reverse-prefix-of-word) |
 ## String
 |  |
 | ------- |
+| [1894-merge-strings-alternately](https://github.com/DhruvSharma4435/Coding/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/DhruvSharma4435/Coding/tree/master/2128-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
