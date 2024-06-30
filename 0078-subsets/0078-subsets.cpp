@@ -1,6 +1,7 @@
 class Solution {
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
+        ios::sync_with_stdio(0);
         vector<vector<int>> ans;
         int n = nums.size();
         int subsets = (1 << n);
