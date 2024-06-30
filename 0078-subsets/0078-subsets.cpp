@@ -1,31 +1,25 @@
 class Solution {
-    void powerSet(vector<int>nums, vector<vector<int>> & ans, vector<int>& temp, int s)
-    {
-        
-        if(s == nums.size())
-          {
-            ans.push_back(temp);
-            return;
-          }
-        //exclude ke lia 
-        powerSet(nums, ans, temp, s + 1);
-        //include ke lia
-        temp.push_back(nums[s]);
-        powerSet(nums, ans, temp, s + 1);
-        temp.pop_back();
-
-    }
 public:
     vector<vector<int>> subsets(vector<int>& nums) {
-        ios::sync_with_stdio(0);
-        vector<vector<int>> ans = {};
-        vector<int> temp = {};
-        if(nums.empty())
+        vector<vector<int>> ans;
+        int n = nums.size();
+        int subsets = (1 << n);
+        for(int num = 0; num < subsets; num++)
         {
+            vector<int> temp; 
+            for(int i = 0; i < nums.size(); i++)
+            {
+                if(num & (1 << i))
+                  temp.push_back(nums[i]);
+            }
             ans.push_back(temp);
-            return ans;
         }
-        powerSet(nums, ans, temp, 0);
+        for(int i = 0; i< ans.size(); i++)
+         {
+            for( int j = 0; j < ans[0].size(); j++)
+               cout<< ans[i][j]<<" ";
+           
+         }
         return ans;
     }
 };
