@@ -1,6 +1,7 @@
 class Solution {
 public:
     bool threeConsecutiveOdds(vector<int>& arr) {
+        ios::sync_with_stdio(0);
         if(arr.size() < 3)
           return false;
         //create intitial window
