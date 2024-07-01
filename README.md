@@ -186,6 +186,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DhruvSharma4435/Coding/tree/master/0078-subsets) |
+| [1293-three-consecutive-odds](https://github.com/DhruvSharma4435/Coding/tree/master/1293-three-consecutive-odds) |
 ## Backtracking
 |  |
 | ------- |
