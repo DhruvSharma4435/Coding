@@ -186,12 +186,14 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/DhruvSharma4435/Coding/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/DhruvSharma4435/Coding/tree/master/0078-subsets) |
 | [1293-three-consecutive-odds](https://github.com/DhruvSharma4435/Coding/tree/master/1293-three-consecutive-odds) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DhruvSharma4435/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/DhruvSharma4435/Coding/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/DhruvSharma4435/Coding/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
