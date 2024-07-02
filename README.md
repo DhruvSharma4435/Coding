@@ -180,6 +180,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/DhruvSharma4435/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1894-merge-strings-alternately](https://github.com/DhruvSharma4435/Coding/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/DhruvSharma4435/Coding/tree/master/2128-reverse-prefix-of-word) |
 ## Array
@@ -190,9 +191,14 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/DhruvSharma4435/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/DhruvSharma4435/Coding/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DhruvSharma4435/Coding/tree/master/0078-subsets) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/DhruvSharma4435/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
