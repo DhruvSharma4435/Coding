@@ -21,7 +21,7 @@ public:
     }
     vector<string> letterCombinations(string digits) {
         vector<string> map = {"","","abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv","wxyz"};
-        ios::sync_with_stdio(0);
+        
         string output = "";
         vector<string> ans;
         solve(digits, output, ans, map,0);
