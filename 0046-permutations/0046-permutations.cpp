@@ -1,18 +1,17 @@
 class Solution {
 private:
-    void solve(vector<int> nums, vector<vector<int>> & ans, vector<int> output, int index)
+    void solve(vector<int> nums, vector<vector<int>> & ans, int index)
     {
         if(index == nums.size())
         {
-            ans.push_back(output);
+            ans.push_back(nums);
             return;
         }
         for(int i = index; i< nums.size(); i++)
         {
             swap(nums[index], nums[i]);
-            output.push_back(nums[index]);
-            solve(nums,ans, output, index + 1);
-            output.pop_back();
+            solve(nums,ans, index + 1);
+            swap(nums[index], nums[i]);     
         }
     }
 public:
@@ -20,8 +19,8 @@ public:
         vector<vector<int>> ans;
         if(nums.empty())
           return ans;
-        vector<int> output;
-        solve(nums, ans, output, 0);
+       
+        solve(nums, ans, 0);
         return ans;
     }
 };
