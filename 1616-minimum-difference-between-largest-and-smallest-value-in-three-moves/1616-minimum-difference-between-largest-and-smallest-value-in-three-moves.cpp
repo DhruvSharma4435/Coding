@@ -1,6 +1,7 @@
 class Solution {
 public:
     int minDifference(vector<int>& nums) {
+        ios::sync_with_stdio(0);
         int n = nums.size();
         if(nums.size() <= 4)
           return 0;
