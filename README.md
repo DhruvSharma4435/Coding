@@ -187,6 +187,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [0046-permutations](https://github.com/DhruvSharma4435/Coding/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/DhruvSharma4435/Coding/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/DhruvSharma4435/Coding/tree/master/0078-subsets) |
 | [1293-three-consecutive-odds](https://github.com/DhruvSharma4435/Coding/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DhruvSharma4435/Coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -195,6 +196,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DhruvSharma4435/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0046-permutations](https://github.com/DhruvSharma4435/Coding/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/DhruvSharma4435/Coding/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/DhruvSharma4435/Coding/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
