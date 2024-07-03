@@ -16,6 +16,7 @@ private:
     }
 public:
     vector<vector<int>> permuteUnique(vector<int>& nums) {
+        ios::sync_with_stdio(0);
         vector<vector<int>> ans;
         solve(nums,ans, 0);
         set<vector<int>> unique_permutations(ans.begin(), ans.end());
