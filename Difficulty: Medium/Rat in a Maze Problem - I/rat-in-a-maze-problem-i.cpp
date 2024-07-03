@@ -18,25 +18,6 @@ class Solution{
                return;
            }
            marked[currRow][currCol] = true;
-           if(currRow > 0)//up ke lia ho gaya
-           {
-               if(m[currRow - 1][currCol] == 1 && !marked[currRow - 1][currCol])
-               {
-                   output.push_back('U');
-                   solve(m, output, ans, n, currRow - 1, currCol, marked);
-                   output.pop_back();
-               }
-           }
-           
-           if(currCol > 0)//left ke lia ho gaya
-           {
-               if(m[currRow][currCol - 1] == 1 &&!marked[currRow ][currCol - 1])
-               {
-                   output.push_back('L');
-                   solve(m, output, ans, n, currRow, currCol - 1, marked);
-                   output.pop_back();
-               }
-           }
            
            if(currRow < n-1)//down ke lia ho gaya
            {
@@ -57,7 +38,26 @@ class Solution{
                    output.pop_back();
                }
            }
+            
+           if(currCol > 0)//left ke lia ho gaya
+           {
+               if(m[currRow][currCol - 1] == 1 &&!marked[currRow ][currCol - 1])
+               {
+                   output.push_back('L');
+                   solve(m, output, ans, n, currRow, currCol - 1, marked);
+                   output.pop_back();
+               }
+           }
            
+           if(currRow > 0)//up ke lia ho gaya
+           {
+               if(m[currRow - 1][currCol] == 1 && !marked[currRow - 1][currCol])
+               {
+                   output.push_back('U');
+                   solve(m, output, ans, n, currRow - 1, currCol, marked);
+                   output.pop_back();
+               }
+           }
            marked[currRow][currCol] = false;
        }
     public:
