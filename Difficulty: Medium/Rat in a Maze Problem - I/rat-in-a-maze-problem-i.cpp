@@ -9,63 +9,66 @@ using namespace std;
 // User function template for C++
 
 class Solution{
+    private:
+       void solve(vector<vector<int>> m, string output, vector<string>& ans, int n, int currRow, int currCol, vector<vector<bool>> & marked)
+       {
+           if(currRow == n - 1  &&  currCol == n - 1)
+           {
+               ans.push_back(output);
+               return;
+           }
+           marked[currRow][currCol] = true;
+           if(currRow > 0)//up ke lia ho gaya
+           {
+               if(m[currRow - 1][currCol] == 1 && !marked[currRow - 1][currCol])
+               {
+                   output.push_back('U');
+                   solve(m, output, ans, n, currRow - 1, currCol, marked);
+                   output.pop_back();
+               }
+           }
+           
+           if(currCol > 0)//left ke lia ho gaya
+           {
+               if(m[currRow][currCol - 1] == 1 &&!marked[currRow ][currCol - 1])
+               {
+                   output.push_back('L');
+                   solve(m, output, ans, n, currRow, currCol - 1, marked);
+                   output.pop_back();
+               }
+           }
+           
+           if(currRow < n-1)//down ke lia ho gaya
+           {
+               if(m[currRow + 1][currCol] == 1 && !marked[currRow + 1][currCol])
+               {
+                   output.push_back('D');
+                   solve(m, output, ans, n, currRow + 1, currCol, marked);
+                   output.pop_back();
+               }
+           }
+           
+           if(currCol < n-1)//right ke lia ho gaya
+           {
+               if(m[currRow ][currCol + 1] == 1 && !marked[currRow ][currCol + 1])
+               {
+                   output.push_back('R');
+                   solve(m, output, ans, n, currRow, currCol + 1, marked);
+                   output.pop_back();
+               }
+           }
+           
+           marked[currRow][currCol] = false;
+       }
     public:
-    void solve (vector<vector<int>> m, vector<string>& ans, string output, int n, int currRow, int currCol, vector<vector<bool>> visited)
-    {
-        visited[currRow][currCol] = true;
-        if(currRow == n -1 &&  currCol == n -1)
-         {
-            ans.push_back(output);
-            return;
-         }
-         if(currRow > 0)//up ke lia ho gaya
-         {
-             if(m[currRow - 1][currCol]  ==  1  && !visited[currRow - 1][currCol])
-             {
-                 output.push_back('U');
-                 solve(m, ans, output, n, currRow - 1, currCol, visited);
-                 output.pop_back();
-             }
-         }
-         
-         if(currCol > 0)//left ke lia ho gaya
-         {
-             if(m[currRow][currCol - 1]  ==  1 && !visited[currRow ][currCol -1])
-             {
-                 output.push_back('L');
-                 solve(m, ans, output, n, currRow , currCol -1, visited);
-                 output.pop_back();
-             }
-         }
-         
-         if(currRow < n-1)//down ke lia ho gaya
-         {
-             if(m[currRow + 1][currCol]  ==  1 && !visited[currRow + 1][currCol])
-             {
-                 output.push_back('D');
-                 solve(m, ans, output, n, currRow + 1, currCol, visited);
-                 output.pop_back();
-             }
-         }
-         
-         if(currCol < n-1)//Right ke lia ho gaya
-         {
-             if(m[currRow][currCol + 1]  ==  1 && !visited[currRow][currCol + 1])
-             {
-                 output.push_back('R');
-                 solve(m, ans, output, n, currRow , currCol +1, visited);
-                 output.pop_back();
-             }
-         }
-         visited[currRow][currCol] = false;
-    }
     vector<string> findPath(vector<vector<int>> &m, int n) {
-        vector<vector<bool>> visited(n, vector<bool>(n,false));
+        // Your code goes here
         vector<string> ans;
+        if(m[0][0] == 0 ||  m[n - 1][n - 1] == 0)
+           return ans;
         string output;
-        if(m[0][0] == 0 || m[n-1][n-1] == 0)
-          return ans;
-        solve(m, ans,output, n, 0, 0, visited);
+        vector<vector<bool>> marked(n, vector<bool>(n, false));
+        solve(m, output, ans, n, 0, 0, marked);
         
         return ans;
     }
