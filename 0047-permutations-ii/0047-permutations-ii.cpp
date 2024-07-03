@@ -10,8 +10,10 @@ private:
         for(int i = index ; i< nums.size(); i++)
         {
             if( i == index || nums[index] != nums[i])
-            {swap(nums[index], nums[i]);
-            solve(nums, ans, index + 1);}
+            {
+                swap(nums[index], nums[i]);
+                solve(nums, ans, index + 1);
+            }
              
         }
     }
@@ -19,12 +21,8 @@ public:
     vector<vector<int>> permuteUnique(vector<int>& nums) {
         ios::sync_with_stdio(0);
         vector<vector<int>> ans;
+        sort(nums.begin(), nums.end());
         solve(nums,ans, 0);
-        set<vector<int>> unique_permutations(ans.begin(), ans.end());
-
-        // Convert the set back to a vector
-        vector<vector<int>> result(unique_permutations.begin(), unique_permutations.end());
-        
-        return result; 
+        return ans; 
     }
 };
