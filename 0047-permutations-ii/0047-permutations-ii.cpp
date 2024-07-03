@@ -9,9 +9,10 @@ private:
         }
         for(int i = index ; i< nums.size(); i++)
         {
-            swap(nums[index], nums[i]);
-            solve(nums, ans, index + 1);
-            swap(nums[index], nums[i]);  
+            if( i == index || nums[index] != nums[i])
+            {swap(nums[index], nums[i]);
+            solve(nums, ans, index + 1);}
+             
         }
     }
 public:
