@@ -14,19 +14,14 @@ public:
         ios::sync_with_stdio(0);
         if(head == nullptr || head -> next == nullptr)
            return head;
-        int cnt = 0;
-        ListNode *temp = head;
-        while(temp != nullptr)
-        {
-            cnt++;
-            temp = temp-> next;
-        }
-        cnt = cnt/2 ;
-        temp = head;
-        while(cnt--)
-        {
-            temp = temp -> next;
-        }
-        return temp;
+       ListNode * fast = head, *slow = head;
+       while(fast!= nullptr)
+       {
+         if(fast -> next == nullptr)
+            break;
+         slow = slow -> next;
+         fast = fast -> next -> next;
+       }
+       return slow;
     }
 };
