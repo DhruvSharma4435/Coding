@@ -11,6 +11,7 @@
 class Solution {
 public:
     ListNode* mergeNodes(ListNode* head) {
+        ios::sync_with_stdio(0);
         ListNode * temp = head;
         ListNode * conc = head;
         int sum = 0;
@@ -39,6 +40,7 @@ public:
                 
             }
         }
+
         return head -> next;
     }
 };
