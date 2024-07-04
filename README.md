@@ -175,6 +175,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 ## Two Pointers
 |  |
 | ------- |
+| [0908-middle-of-the-linked-list](https://github.com/DhruvSharma4435/Coding/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/DhruvSharma4435/Coding/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/DhruvSharma4435/Coding/tree/master/2128-reverse-prefix-of-word) |
 ## String
@@ -217,6 +218,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 ## Linked List
 |  |
 | ------- |
+| [0908-middle-of-the-linked-list](https://github.com/DhruvSharma4435/Coding/tree/master/0908-middle-of-the-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/DhruvSharma4435/Coding/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
