@@ -11,6 +11,7 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
+        ios::sync_with_stdio(0);
         if(head == nullptr || head -> next == nullptr)
            return head;
         int cnt = 0;
