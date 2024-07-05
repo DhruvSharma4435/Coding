@@ -13,17 +13,12 @@ private:
     ListNode* solve(ListNode *head, int k)
     {
         if(head == nullptr)
-          return head;
+           return head;
         ListNode * temp = head;
-        
         int i = 0;
         for(; i< k && temp != nullptr; i++)
-        {
             temp = temp -> next;
-            
-            // if(temp == nullptr)
-            //   return head;
-        }
+        
         ListNode * small = solve(temp, k);
         if(i == k)
         {
