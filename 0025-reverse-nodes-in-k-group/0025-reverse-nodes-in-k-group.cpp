@@ -11,6 +11,7 @@
 class Solution {
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
+        ios::sync_with_stdio(0);
         //base case
         if(head == nullptr)
           return NULL;
