@@ -38,7 +38,7 @@ class Solution {
     }
 public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
-        ios::sync_with_stdio(0);
+        
         if(head == NULL || head -> next == NULL || head -> next -> next == NULL)
            return {-1, -1};
         ListNode * prev = NULL, *curr = head, *forward = NULL;
