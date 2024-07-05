@@ -9,36 +9,31 @@
  * };
  */
 class Solution {
-private:
-    ListNode* solve(ListNode *head, int k)
-    {
+public:
+    ListNode* reverseKGroup(ListNode* head, int k) {
+        //base case
         if(head == nullptr)
-           return head;
-        ListNode * temp = head;
-        int i = 0;
-        for(; i< k && temp != nullptr; i++)
-            temp = temp -> next;
+          return NULL;
         
-        ListNode * small = solve(temp, k);
-        if(i == k)
+        ListNode * temp = head;
+        for(int j = 0; j < k; j++)
         {
-        ListNode * prev = nullptr, *curr = head, *forward = nullptr;
-        for(int i = 0; i< k && curr != nullptr; i++)
+            if(temp == nullptr)
+              return head;
+            temp = temp -> next;
+        }
+        ListNode * curr = head, *prev = NULL, *forward = NULL;
+        int count = 0;
+        while(curr != nullptr && count < k)
         {
-            forward = curr-> next;
+            forward = curr -> next;
             curr -> next = prev;
             prev = curr;
             curr = forward;
+            count++;
         }
-        head -> next = small;
-        return prev;
-        }
-        else 
-         return head;
-    }
-public:
-    ListNode* reverseKGroup(ListNode* head, int k) {
-        ios::sync_with_stdio(0);
-        return solve(head, k);
+        if(forward != nullptr)
+            head -> next = reverseKGroup(forward, k);
+        return prev; 
     }
 };
