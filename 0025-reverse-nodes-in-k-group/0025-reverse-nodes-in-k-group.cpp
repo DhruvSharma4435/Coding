@@ -15,9 +15,9 @@ private:
         if(head == nullptr)
           return head;
         ListNode * temp = head;
-        int cnt = k;
+        
         int i = 0;
-        for(; i< cnt && temp != nullptr; i++)
+        for(; i< k && temp != nullptr; i++)
         {
             temp = temp -> next;
             
@@ -43,6 +43,7 @@ private:
     }
 public:
     ListNode* reverseKGroup(ListNode* head, int k) {
+        ios::sync_with_stdio(0);
         return solve(head, k);
     }
 };
