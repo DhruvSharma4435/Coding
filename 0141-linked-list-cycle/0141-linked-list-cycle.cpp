@@ -9,6 +9,7 @@
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
+        ios::sync_with_stdio(0);
         if(head == nullptr || head -> next == nullptr)
            return false;
         if(head -> next == head)
