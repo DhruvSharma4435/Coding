@@ -193,6 +193,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0078-subsets](https://github.com/DhruvSharma4435/Coding/tree/master/0078-subsets) |
 | [1293-three-consecutive-odds](https://github.com/DhruvSharma4435/Coding/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DhruvSharma4435/Coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [3469-maximum-height-of-a-triangle](https://github.com/DhruvSharma4435/Coding/tree/master/3469-maximum-height-of-a-triangle) |
 ## Backtracking
 |  |
 | ------- |
@@ -238,4 +239,8 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [2645-pass-the-pillow](https://github.com/DhruvSharma4435/Coding/tree/master/2645-pass-the-pillow) |
+## Enumeration
+|  |
+| ------- |
+| [3469-maximum-height-of-a-triangle](https://github.com/DhruvSharma4435/Coding/tree/master/3469-maximum-height-of-a-triangle) |
 <!---LeetCode Topics End-->
