@@ -229,8 +229,13 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/DhruvSharma4435/Coding/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/DhruvSharma4435/Coding/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/DhruvSharma4435/Coding/tree/master/0025-reverse-nodes-in-k-group) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/DhruvSharma4435/Coding/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
