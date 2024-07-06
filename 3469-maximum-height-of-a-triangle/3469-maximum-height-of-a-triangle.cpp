@@ -1,6 +1,7 @@
 class Solution {
 public:
     int maxHeightOfTriangle(int red, int blue) {
+        ios::sync_with_stdio(0);
         int row = 1;
         if(red <= 1 && blue <= 1)
            return row;
