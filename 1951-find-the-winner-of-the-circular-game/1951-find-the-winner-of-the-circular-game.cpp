@@ -2,7 +2,7 @@
 class Solution {
 public:
     int findTheWinner(int n, int k) {
-        ios::sync_with_stdio(0);
+       
         if(n == 1)
            return 1;
         ListNode * head = new ListNode(1);
