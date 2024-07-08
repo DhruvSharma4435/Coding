@@ -16,22 +16,18 @@ public:
         }
         prev1 -> next = head;
         delete tail;
-        ListNode * prev = head;
-        while(prev -> next != prev)
+       
+        while(prev1 -> next != prev1)
         {
             for(int i = 1; i< k; i++)
             {
-                prev = head;
-                head = head -> next;
+                prev1 = prev1 -> next;
             }
-            
-            prev -> next = head -> next;
-            if(k ==1 &&  prev -> next == prev)
-               return head -> val;
-            
-            head = head -> next;
+            ListNode *del = prev1 -> next;
+            prev1 -> next = del -> next;
+            delete del;
            
         }
-        return prev -> val;
+        return prev1 -> val;
     }
 };
