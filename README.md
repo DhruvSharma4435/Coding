@@ -193,6 +193,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0078-subsets](https://github.com/DhruvSharma4435/Coding/tree/master/0078-subsets) |
 | [1293-three-consecutive-odds](https://github.com/DhruvSharma4435/Coding/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DhruvSharma4435/Coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1803-average-waiting-time](https://github.com/DhruvSharma4435/Coding/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DhruvSharma4435/Coding/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3469-maximum-height-of-a-triangle](https://github.com/DhruvSharma4435/Coding/tree/master/3469-maximum-height-of-a-triangle) |
 ## Backtracking
@@ -231,6 +232,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/DhruvSharma4435/Coding/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/DhruvSharma4435/Coding/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DhruvSharma4435/Coding/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/DhruvSharma4435/Coding/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/DhruvSharma4435/Coding/tree/master/2645-pass-the-pillow) |
