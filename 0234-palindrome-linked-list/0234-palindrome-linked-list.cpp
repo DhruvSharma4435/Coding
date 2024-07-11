@@ -25,6 +25,7 @@ private:
     }
 public:
     bool isPalindrome(ListNode* head) {
+        ios::sync_with_stdio(0);
         if(head == NULL || head -> next == NULL)
           return true;
         ListNode * slow = head, * fast = head;
