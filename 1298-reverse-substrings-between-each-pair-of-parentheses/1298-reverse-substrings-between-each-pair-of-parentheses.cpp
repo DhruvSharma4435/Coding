@@ -1,6 +1,7 @@
 class Solution {
 public:
      string reverseParentheses(string s) {
+        ios::sync_with_stdio(0);
         vector<int> openBracket;
         for(int i = 0; i< s.length(); i++)
         {
