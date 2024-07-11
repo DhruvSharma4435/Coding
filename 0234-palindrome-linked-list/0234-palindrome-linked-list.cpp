@@ -11,22 +11,22 @@
 class Solution {
 private:
     ListNode* reverse(ListNode* head) {
-        if(head == NULL)
+        if(head == NULL || head -> next == NULL)
           return head;
-        if(head -> next == NULL)  return head;
-        ListNode * temp = reverse(head -> next);
-        ListNode * smallHead = temp;
-        while(temp -> next != nullptr)
-           temp = temp -> next;
-        temp -> next = head;
-        head -> next = nullptr;
-        return smallHead;
+        ListNode* curr = head, *prev = NULL, *forward = NULL;
+        while(curr != nullptr)
+        {
+            forward = curr -> next;
+            curr -> next = prev;
+            prev = curr;
+            curr = forward;
+        }
+        return prev;
     }
 public:
     bool isPalindrome(ListNode* head) {
-        if(head == NULL)
+        if(head == NULL || head -> next == NULL)
           return true;
-        if(head -> next == NULL)  return true;
         ListNode * slow = head, * fast = head;
         while(fast != NULL && fast -> next != NULL)
         {
