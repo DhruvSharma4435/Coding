@@ -11,6 +11,7 @@
 class Solution {
 public:
     ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
+        ios::sync_with_stdio(0);
         vector<int> arr1, arr2;
         ListNode* temp1 = l1, *temp2 = l2;
         while(temp1 != nullptr)
