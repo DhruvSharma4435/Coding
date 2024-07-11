@@ -10,13 +10,17 @@
  */
 class Solution {
 public:
-     ListNode* reverseList(ListNode* head) {
-    if (!head || !head->next)
-      return head;
-
-    ListNode* newHead = reverseList(head->next);
-    head->next->next = head;
-    head->next = nullptr;
-    return newHead;
-  }
+    ListNode* reverseList(ListNode* head) {
+        ios::sync_with_stdio(0);
+        if(head == NULL)
+          return head;
+        if(head -> next == NULL)  return head;
+        ListNode * temp = reverseList(head -> next);
+        ListNode * smallHead = temp;
+        while(temp -> next != nullptr)
+           temp = temp -> next;
+        temp -> next = head;
+        head -> next = nullptr;
+        return smallHead;
+    }
 };
