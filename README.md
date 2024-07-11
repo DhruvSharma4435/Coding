@@ -228,6 +228,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0021-merge-two-sorted-lists](https://github.com/DhruvSharma4435/Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DhruvSharma4435/Coding/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/DhruvSharma4435/Coding/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/DhruvSharma4435/Coding/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/DhruvSharma4435/Coding/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/DhruvSharma4435/Coding/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/DhruvSharma4435/Coding/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -244,6 +245,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/DhruvSharma4435/Coding/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/DhruvSharma4435/Coding/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/DhruvSharma4435/Coding/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DhruvSharma4435/Coding/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Math
 |  |
