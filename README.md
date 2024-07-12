@@ -186,6 +186,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DhruvSharma4435/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DhruvSharma4435/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/DhruvSharma4435/Coding/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/DhruvSharma4435/Coding/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/DhruvSharma4435/Coding/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/DhruvSharma4435/Coding/tree/master/2128-reverse-prefix-of-word) |
 ## Array
@@ -220,6 +221,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DhruvSharma4435/Coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/DhruvSharma4435/Coding/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -274,4 +276,5 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0234-palindrome-linked-list](https://github.com/DhruvSharma4435/Coding/tree/master/0234-palindrome-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DhruvSharma4435/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/DhruvSharma4435/Coding/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/DhruvSharma4435/Coding/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
