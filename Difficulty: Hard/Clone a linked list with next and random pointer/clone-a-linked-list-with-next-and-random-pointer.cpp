@@ -38,16 +38,38 @@ class Solution
         temp = head;
         dummy = dummy -> next;
         tail = dummy;
-        
-        while(temp != NULL)
+        Node* casualTemp = temp;
+        Node* casualTail = tail;
+       while(tail != NULL){
+            casualTail= tail -> next;
+            casualTemp= temp -> next;
+            temp -> next = tail;
+            tail -> next = casualTemp;
+            
+            tail = casualTail;
+            temp = casualTemp;
+        } 
+        temp = head;
+        while(temp != nullptr)
         {
-            if(temp -> arb != NULL){
-                tail -> arb = mp[temp -> arb]; 
-            }
-            temp = temp-> next;
-            tail = tail-> next;
+          if(temp -> arb != NULL){
+              Node * someNode = temp -> arb -> next;
+              temp -> next -> arb = someNode;
+          }
+          temp = temp -> next -> next;
         }
-        return dummy;
+        
+        Node* original = head;
+    Node* copy = head->next;
+    Node* temp3 = copy;
+    while (original && copy) {
+        original->next = original->next ? original->next->next : original->next;
+        copy->next = copy->next ? copy->next->next : copy->next;
+        original = original->next;
+        copy = copy->next;
+    }
+
+    return temp3;
     }
 
 };
