@@ -1,7 +1,7 @@
 class Solution {
 public:
     bool isValid(string s) {
-        
+        ios::sync_with_stdio(0);
         if(s.length() < 2) return false;
         
         stack<char> stak;
