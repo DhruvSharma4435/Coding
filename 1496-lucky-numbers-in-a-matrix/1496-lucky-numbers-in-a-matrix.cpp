@@ -17,6 +17,7 @@ private:
     }
 public:
     vector<int> luckyNumbers (vector<vector<int>>& matrix) {
+        ios::sync_with_stdio(0);
         int rows = matrix.size();
         int cols = matrix[0].size();
         if(rows == 1 && cols == 1){
