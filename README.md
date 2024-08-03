@@ -200,6 +200,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0948-sort-an-array](https://github.com/DhruvSharma4435/Coding/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/DhruvSharma4435/Coding/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DhruvSharma4435/Coding/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/DhruvSharma4435/Coding/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DhruvSharma4435/Coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/DhruvSharma4435/Coding/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/DhruvSharma4435/Coding/tree/master/1803-average-waiting-time) |
@@ -222,6 +223,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0001-two-sum](https://github.com/DhruvSharma4435/Coding/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DhruvSharma4435/Coding/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/DhruvSharma4435/Coding/tree/master/0141-linked-list-cycle) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/DhruvSharma4435/Coding/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 ## Greedy
 |  |
 | ------- |
@@ -231,6 +233,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/DhruvSharma4435/Coding/tree/master/0948-sort-an-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/DhruvSharma4435/Coding/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DhruvSharma4435/Coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Linked List
 |  |
