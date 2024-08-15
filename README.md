@@ -197,6 +197,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0046-permutations](https://github.com/DhruvSharma4435/Coding/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DhruvSharma4435/Coding/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/DhruvSharma4435/Coding/tree/master/0078-subsets) |
+| [0890-lemonade-change](https://github.com/DhruvSharma4435/Coding/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/DhruvSharma4435/Coding/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/DhruvSharma4435/Coding/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/DhruvSharma4435/Coding/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -227,6 +228,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 ## Greedy
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/DhruvSharma4435/Coding/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/DhruvSharma4435/Coding/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DhruvSharma4435/Coding/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
