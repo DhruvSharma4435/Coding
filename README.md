@@ -189,6 +189,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [1720-crawler-log-folder](https://github.com/DhruvSharma4435/Coding/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/DhruvSharma4435/Coding/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1894-merge-strings-alternately](https://github.com/DhruvSharma4435/Coding/tree/master/1894-merge-strings-alternately) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/DhruvSharma4435/Coding/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2128-reverse-prefix-of-word](https://github.com/DhruvSharma4435/Coding/tree/master/2128-reverse-prefix-of-word) |
 ## Array
 |  |
@@ -255,6 +256,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [1642-water-bottles](https://github.com/DhruvSharma4435/Coding/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/DhruvSharma4435/Coding/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DhruvSharma4435/Coding/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/DhruvSharma4435/Coding/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/DhruvSharma4435/Coding/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/DhruvSharma4435/Coding/tree/master/2645-pass-the-pillow) |
 ## Recursion
