@@ -9,13 +9,16 @@ public:
         temp = temp + num;
     } 
     int sum = 0;
+    int prevSum = 0;
     while(k--){
+        prevSum = sum;
         sum = 0;
         for(int i = 0; i<temp.length(); i++){
             int x = temp[i] - '0';
             sum = sum + x;
         }
         temp = to_string(sum);
+        if(prevSum==sum) return sum;
     } 
     return sum; 
     }
