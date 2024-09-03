@@ -2,7 +2,6 @@
 class Solution {
 public:
     int getLucky(string s, int k) {
-    ios::sync_with_stdio(0);
     string temp;
     for(int i = 0; i< s.length(); i++){
         int digit = s[i] - 'a' + 1;
