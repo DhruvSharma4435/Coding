@@ -2,24 +2,23 @@
 class Solution {
 public:
     int getLucky(string s, int k) {
-    string temp;
-    for(int i = 0; i< s.length(); i++){
-        int digit = s[i] - 'a' + 1;
-        string num = to_string(digit);
-        temp = temp + num;
-    } 
     int sum = 0;
-    int prevSum = 0;
-    while(k--){
-        prevSum = sum;
-        sum = 0;
-        for(int i = 0; i<temp.length(); i++){
-            int x = temp[i] - '0';
-            sum = sum + x;
+        for (char ch : s) {
+            int a = ch - 96;
+            sum += a % 10; a /= 10;     // First digit
+            sum += a % 10; a /= 10;     // Second digit 
+            sum += a;                      // Third digit if (ch > 99)
         }
-        temp = to_string(sum);
-        if(prevSum==sum) return sum;
-    } 
-    return sum; 
+        k--;   // One Transform operation is done
+        while (k > 0) {
+            int temp = sum;
+            sum = 0;
+            while (temp != 0) {
+                sum += temp % 10;
+                temp /= 10;
+            }
+            k--;
+        }
+        return sum;
     }
 };
