@@ -207,6 +207,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [1720-crawler-log-folder](https://github.com/DhruvSharma4435/Coding/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/DhruvSharma4435/Coding/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/DhruvSharma4435/Coding/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DhruvSharma4435/Coding/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3469-maximum-height-of-a-triangle](https://github.com/DhruvSharma4435/Coding/tree/master/3469-maximum-height-of-a-triangle) |
 ## Backtracking
 |  |
@@ -219,6 +220,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DhruvSharma4435/Coding/tree/master/0078-subsets) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DhruvSharma4435/Coding/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Hash Table
 |  |
 | ------- |
@@ -319,4 +321,8 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/DhruvSharma4435/Coding/tree/master/0948-sort-an-array) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DhruvSharma4435/Coding/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
