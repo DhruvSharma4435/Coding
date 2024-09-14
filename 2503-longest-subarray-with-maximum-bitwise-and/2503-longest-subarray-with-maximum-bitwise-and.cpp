@@ -1,6 +1,7 @@
 class Solution {
 public:
     int longestSubarray(vector<int>& nums) {
+        ios::sync_with_stdio(0);
         int maxi = 0, count = 0, ans = 0;
         for(int i = 0; i< nums.size(); i++){
             if(nums[i] > maxi){
