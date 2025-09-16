@@ -177,6 +177,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DhruvSharma4435/Coding/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/DhruvSharma4435/Coding/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/DhruvSharma4435/Coding/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DhruvSharma4435/Coding/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/DhruvSharma4435/Coding/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/DhruvSharma4435/Coding/tree/master/1894-merge-strings-alternately) |
@@ -200,6 +201,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 | [0046-permutations](https://github.com/DhruvSharma4435/Coding/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DhruvSharma4435/Coding/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/DhruvSharma4435/Coding/tree/master/0078-subsets) |
+| [0283-move-zeroes](https://github.com/DhruvSharma4435/Coding/tree/master/0283-move-zeroes) |
 | [0890-lemonade-change](https://github.com/DhruvSharma4435/Coding/tree/master/0890-lemonade-change) |
 | [0948-sort-an-array](https://github.com/DhruvSharma4435/Coding/tree/master/0948-sort-an-array) |
 | [1293-three-consecutive-odds](https://github.com/DhruvSharma4435/Coding/tree/master/1293-three-consecutive-odds) |
