@@ -331,4 +331,8 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/DhruvSharma4435/Coding/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/DhruvSharma4435/Coding/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
