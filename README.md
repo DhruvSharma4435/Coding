@@ -295,6 +295,7 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/DhruvSharma4435/Coding/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/DhruvSharma4435/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/DhruvSharma4435/Coding/tree/master/0234-palindrome-linked-list) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/DhruvSharma4435/Coding/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/DhruvSharma4435/Coding/tree/master/1720-crawler-log-folder) |
@@ -335,4 +336,16 @@ Hi there!, this is the coding repository of Dhruv Sharma, hope that you will enj
 |  |
 | ------- |
 | [1908-recyclable-and-low-fat-products](https://github.com/DhruvSharma4435/Coding/tree/master/1908-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DhruvSharma4435/Coding/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DhruvSharma4435/Coding/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/DhruvSharma4435/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
